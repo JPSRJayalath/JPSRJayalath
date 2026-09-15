@@ -159,6 +159,7 @@ Ultimately, I want to become a developer who can understand and work across the 
 
 ---
 
+<!--
 ### 📊 GitHub Activity
 
 <p align="left">
@@ -168,10 +169,12 @@ Ultimately, I want to become a developer who can understand and work across the 
 
 ---
 
+-->
+
 ### 🌐 Connect With Me
 
-* **GitHub:** [@JPSRJayalath](https://github.com)
-* **Portfolio:** [Your Website Link Here]
-* **LinkedIn:** [Your LinkedIn Link Here]
+* **GitHub:** [@JPSRJayalath](https://github.com/JPSRJayalath)
+* **Portfolio:** [Visit](https://jpsrj.vercel.app)
+<!-- * **LinkedIn:** [Your LinkedIn Link Here] -->
 
 <p align="center"><b>⭐ Always learning. Always building.</b></p>
