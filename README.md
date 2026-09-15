@@ -1,135 +1,167 @@
-# Hi, I'm Samithu Ranmira 👋
+# Hi, I’m Samithu Ranmira 👋
 
-<p align="left">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com" alt="profile views" />
-</p>
+💻 **ICT Enthusiast & Developer** | ⚡ **Electronics & Arduino** | 🐧 **Linux & Systems** | 🤖 **AI/ML** | 🔐 **Cybersecurity**
 
 ### 👨‍💻 About Me
 
-I am an ICT enthusiast and developer with a broad interest in technology, ranging from electronics and hardware to software development, Linux systems, networking, AI, and cybersecurity. 
+I am an ICT enthusiast and developer with a broad interest in technology, ranging from electronics and hardware to software development, Linux systems, networking, AI, and cybersecurity.
 
-My journey started with exploring computer hardware, electronics, and Arduino-based projects, which sparked my obsession with understanding how technology works beyond just the software layer. I enjoy building things and learning by experimenting—whether that means programming a microcontroller, configuring an Arch Linux server, running AI models locally, or developing an AI-powered Telegram bot.
+My journey in technology started with exploring computer hardware, electronics, and Arduino-based projects, which gave me an interest in understanding how technology works beyond just the software layer. Over time, I expanded into programming, web development, Linux servers, networking, automation, and AI.
 
-> **Technology Philosophy:** Build it. Break it. Understand it. Improve it. 🛠️
+I enjoy building things and learning by experimenting — whether that means programming a microcontroller, configuring a Linux server, developing a Telegram bot, building a web application, or running AI models locally.
+
+I am particularly interested in the connection between hardware and software, and my long-term goal is to combine Computer Science, AI, and Cybersecurity to build useful, secure, and efficient systems.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Technical Skills
 
 <details>
 <summary><b>💻 Software & Web Development</b></summary>
 <br>
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="Rust" />
-  <img src="https://shields.io" alt="Flutter" />
-</p>
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Next.js" />
-  <img src="https://shields.io" alt="Node.js" />
-</p>
+
+* **Languages:** Python, C/C++, JavaScript, TypeScript
+* **Web:** HTML, CSS, React, Next.js, Node.js
+* **Backend & APIs:** REST APIs, automation, asynchronous programming
+* **Bots:** Telegram Bot API, Telethon, AI-powered bots
+* **Development:** Building personal projects, automation tools, and cross-platform applications
 </details>
 
 <details>
 <summary><b>🐧 Systems, Linux & Networking</b></summary>
 <br>
-<p align="left">
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Ubuntu Server" />
-  <img src="https://shields.io" alt="Arch Linux" />
-  <img src="https://shields.io" alt="Shell Scripting" />
-  <img src="https://shields.io" alt="tmux" />
-</p>
-<ul>
-  <li><b>Infrastructure:</b> SSH, SFTP, Remote System Access, Local Service Deployment.</li>
-  <li><b>Networking:</b> TCP/IP fundamentals, LAN networking, and custom environment troubleshooting.</li>
-</ul>
-</details>
 
-<details>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br>
-<p align="left">
-  <img src="https://shields.io" alt="PyTorch" />
-  <img src="https://shields.io" alt="Stable Diffusion" />
-</p>
-<ul>
-  <li><b>Local AI:</b> Local LLM/Generative AI infrastructure setup, ComfyUI workflows, and SDXL inference.</li>
-  <li><b>Integrations:</b> Developing custom bridges between OpenAI/Gemini/Local APIs and active messaging software.</li>
-</ul>
-</details>
-
-<details>
-<summary><b>⚡ Hardware & Electronics</b></summary>
-<br>
-<p align="left">
-  <img src="https://shields.io" alt="Arduino" />
-</p>
-<ul>
-  <li><b>Physical Computing:</b> Sensor integration, structural hardware troubleshooting, and electronic prototyping.</li>
-  <li><b>Rig Building:</b> Custom PC building, optimized hardware component matching, and benchmarking.</li>
-</ul>
+* **Operating Systems:** Linux, Ubuntu Server, Arch Linux
+* **Server Administration:** Linux server deployment, shell scripting, SSH, SFTP, system maintenance
+* **Networking:** TCP/IP fundamentals, LAN networking, network configuration, remote access, service deployment
+* **Virtual / Remote Infrastructure:** Running services across local machines and accessing systems remotely
+* **Linux Environment:** CLI-based workflows, tmux, system configuration and troubleshooting
 </details>
 
 <details>
 <summary><b>🔐 Cybersecurity</b></summary>
 <br>
-<p align="left">
-  <img src="https://shields.io" alt="Red Team" />
-  <img src="https://shields.io" alt="Blue Team" />
-</p>
-<ul>
-  <li><b>Focus Areas:</b> Network security concepts, secure Linux system hardening, and defensive application architecture.</li>
-</ul>
+
+* Cybersecurity fundamentals
+* Network security concepts
+* Secure system configuration
+* Linux security
+* Secure software development
+* Exploring Red Team & Blue Team methodologies
+* Interested in eventually combining AI with cybersecurity
+</details>
+
+<details>
+<summary><b>⚡ Hardware & Electronics</b></summary>
+<br>
+
+* Arduino & Microcontrollers
+* Sensor integration and physical computing
+* Electronics prototyping
+* PC building and hardware configuration
+* Hardware troubleshooting
+* Component selection
+* Understanding the interaction between hardware and software
+</details>
+
+<details>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br>
+
+* Local AI experimentation
+* Generative AI
+* Image generation
+* AI model deployment and inference
+* PyTorch
+* ComfyUI
+* Stable Diffusion / SDXL
+* Exploring AI integration into applications and messaging platforms
+* Interested in AI + Cybersecurity
 </details>
 
 ---
 
-### 🚀 Active & Past Projects
+### 🔧 Tools & Technologies
 
-* **🤖 AI & Automation**
-  * **AI-powered Telegram Bots:** Developed modular asynchronous automation tools leveraging Telegram Bot API, Telethon, and AI translation logic.
-  * **Gemini AI Integrations:** Explored communication channel enhancements through messaging platform integrations.
-  * **Local Inference Platforms:** Scaled local system CPU/GPU configurations to run inference models using PyTorch and ComfyUI.
-* **⚡ Arduino & Electronics**
-  * **Hardware Prototypes:** Designed physical computing rigs using microcontrollers to bridge real-world physical components with software layers.
-* **🌐 Web Development**
-  * **Personal Portfolio:** Crafted a modern, responsive personal portfolio stack utilizing Next.js and TypeScript.
-
----
-
-### 🧠 Continuous Learning & Future Focus
-
-Currently deep diving into **Data Structures & Algorithms** alongside advanced cross-platform architectures (**Flutter** + **Rust** for performance execution). 
-
-My future vision centers exactly at the intersection of:
-$$\text{Computer Science} \times \text{AI} \times \text{Cybersecurity} \times \text{Systems} \times \text{Hardware}$$
-
-#### Long-Term Milestones
-* 🔐 Master Offensive & Defensive Infrastructure Security.
-* 🧠 Build AI-Powered Defensive Security tools.
-* 📟 Implement Embedded System designs combining low-level computing with secure hardware interfaces.
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="Linux CLI" />
+  <img src="https://shields.io" alt="Next.js" />
+  <img src="https://shields.io" alt="Flutter" />
+  <img src="https://shields.io" alt="Rust" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Arduino" />
+  <img src="https://shields.io" alt="PyTorch" />
 </p>
 
-<p align="center">
+---
+
+### 🚀 Projects
+
+* **🤖 AI & Automation**
+  * **AI-powered Telegram Bots:** Building bots for automation, translation, AI interaction, and other practical use cases.
+  * **Gemini AI Messaging Projects:** Exploring AI integration with messaging and business communication platforms.
+  * **Local AI Infrastructure:** Experimenting with running AI models locally using available CPU/GPU resources.
+
+* **⚡ Arduino & Electronics**
+  * **Arduino Projects:** Experimenting with microcontrollers, sensors, electronics, and physical computing.
+  * **Hardware Prototyping:** Building and testing systems that connect software with real-world hardware.
+
+* **🌐 Web Development**
+  * **Personal Portfolio:** A modern responsive developer portfolio built with Next.js and TypeScript.
+  * **Web Projects:** Building websites and applications with modern frontend technologies.
+
+* **🐧 Linux & Systems**
+  * **Linux Server Projects:** Deploying and managing services on Linux-based systems.
+  * **Self-Hosted Services:** Experimenting with local infrastructure, networking, remote access, and server-based applications.
+
+* **📱 Cross-Platform Applications**
+  * Exploring native and structured applications for **macOS**, **Windows**, **Linux**, **Android**, **iOS**, and **iPadOS** (Currently focused on Flutter, using Rust for performance-critical engines and Python for AI systems).
+
+---
+
+### 🧠 Current Learning
+
+I’m continuously expanding my knowledge in:
+* Computer Science fundamentals & Data structures/algorithms
+* Linux, system administration, and secure networking architectures
+* Cybersecurity architectures & AI / Machine Learning inference systems
+* Embedded devices, hardware systems, and low-power application engineering
+* Multi-platform engineering environments using Rust and advanced Python patterns
+
+---
+
+### 🎯 Future Focus
+
+My long-term ICT interests are focused around the intersection of:
+$$\text{Computer Science} \times \text{AI} \times \text{Cybersecurity} \times \text{Systems} \times \text{Hardware}$$
+
+I want to develop deeper expertise in:
+* 🔐 Offensive & Defensive Security
+* 🤖 AI / Machine Learning
+* 🐧 Operating Systems & Low-Level Computing
+* 🌐 Network & Infrastructure Security
+* ⚡ Embedded Systems & IoT
+* 🧠 AI-powered Security Systems
+* 🛠️ High-performance and cross-platform software
+
+Ultimately, I want to become a developer who can understand and work across the full technology stack — from hardware and operating systems to applications, AI, and security.
+
+---
+
+### 📌 Technology Philosophy
+
+> **Build it. Break it. Understand it. Improve it.**
+> 
+> *I believe the best way to learn technology is to build real projects, experiment with systems, solve problems, and understand what happens underneath the abstraction.*
+
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
   <img src="https://vercel.app" alt="GitHub Stats" />
   <img src="https://vercel.app" alt="Top Languages" />
 </p>
@@ -138,16 +170,8 @@ $$\text{Computer Science} \times \text{AI} \times \text{Cybersecurity} \times \t
 
 ### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://t.me[YourTelegramUsername]" target="_blank">
-    <img src="https://shields.io" alt="Telegram" />
-  </a>
-  <a href="https://linkedin.com[YourLinkedInUsername]" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[your.email@example.com]" target="_blank">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+* **GitHub:** [@JPSRJayalath](https://github.com)
+* **Portfolio:** [Your Website Link Here]
+* **LinkedIn:** [Your LinkedIn Link Here]
 
-<p align="center"><b>⭐ Always learning. Always building. Feel free to star my repositories!</b></p>
+<p align="center"><b>⭐ Always learning. Always building.</b></p>
