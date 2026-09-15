@@ -84,16 +84,16 @@ I am particularly interested in the connection between hardware and software, an
 ### 🔧 Tools & Technologies
 
 <p align="left">
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="VS Code" />
-  <img src="https://shields.io" alt="Linux CLI" />
-  <img src="https://shields.io" alt="Next.js" />
-  <img src="https://shields.io" alt="Flutter" />
-  <img src="https://shields.io" alt="Rust" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Arduino" />
-  <img src="https://shields.io" alt="PyTorch" />
+  <img width="96" height="96" src="https://img.icons8.com/fluency/96/git.png" alt="git"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency-systems-filled/48/github.png" alt="github"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+  <img width="96" height="96" src="https://img.icons8.com/fluency/96/linux-terminal.png" alt="linux-terminal"/>
+  <img width="96" height="96" src="https://img.icons8.com/fluency/96/nextjs.png" alt="nextjs"/>
+  <img width="96" height="96" src="https://img.icons8.com/color/96/flutter.png" alt="flutter"/>
+  <img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png" alt="external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo"/>
+  <img width="96" height="96" src="https://img.icons8.com/color/96/python--v1.png" alt="python--v1"/>
+  <img width="96" height="96" src="https://img.icons8.com/color/96/arduino.png" alt="arduino"/>
+  <img width="96" height="96" src="https://img.icons8.com/fluency/96/pytorch.png" alt="pytorch"/>
 </p>
 
 ---
