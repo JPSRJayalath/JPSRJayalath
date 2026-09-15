@@ -173,8 +173,8 @@ Ultimately, I want to become a developer who can understand and work across the 
 
 ### 🌐 Connect With Me
 
-* **GitHub:** [@JPSRJayalath](https://github.com/JPSRJayalath)
-* **Portfolio:** [Visit](https://jpsrj.vercel.app)
+* **GitHub:** <a href="https://github.com/JPSRJayalath" target="_blank" rel="noopener noreferrer">@JPSRJayalath</a>
+* **Portfolio:** <a href="https://jpsrj.vercel.app" target="_blank" rel="noopener noreferrer">Visit</a>
 <!-- * **LinkedIn:** [Your LinkedIn Link Here] -->
 
 <p align="center"><b>⭐ Always learning. Always building.</b></p>
